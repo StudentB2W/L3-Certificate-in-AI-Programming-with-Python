@@ -7,3 +7,6 @@ https://docs.github.com/en/get-started/writing-on-github/getting-started-with-wr
 # A first-level heading
 ## A second-level heading
 ### A third-level heading
+
+![image](https://github.com/StudentB2W/L3-Certificate-in-AI-Programming-with-Python/assets/172389077/ec1649f4-6bd2-4409-a7d4-bb53ae35ca02)
+
